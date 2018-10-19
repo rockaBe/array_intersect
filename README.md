@@ -6,8 +6,10 @@ This challenge is to see how applicants understand requirements and implement a 
 
 As a developer, you should be able to calculate the `intersects` of two arrays (`a1`, `a2`) so that the following criterias are met:
   1. all elements that occur in both arrays are available in the resulting array.
-  2. the minimum count of occurences of an element in both arrays can be found in the resulting array (e.g. `intersect([1,1,2], [1,1,1])` should return `result = [1,1]`).
-  3. the resulting array should be sorted
+  2. the resulting array should be sorted
+  
+Nice to have:
+the minimum count of occurences of an element in both arrays can be found in the resulting array (e.g. `intersect([1,1,2], [1,1,1])` should return `result = [1,1]`).
 
 ## The task
 
