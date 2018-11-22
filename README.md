@@ -9,7 +9,7 @@ As a developer, you should be able to calculate the `intersects` of two arrays (
   1. all elements, that occur in both arrays, are available in the resulting array.
   2. the resulting array should be sorted
 
-### main task  
+### 1. main task  
 
 Implement an `intersect` method, without using the built in `#intersect` method of the class `Array`, that takes 2 arrays as arguments  
 `a1 = [3,3,1,3]` and  
@@ -17,7 +17,7 @@ Implement an `intersect` method, without using the built in `#intersect` method 
 
 returns `[1,3]`.
 
-### nice to have task 
+### 2. nice-to-have task
 
 Implement the `intersect` method same as above, but elements commonly appearing multiple times in both arrays should be reflected in the result.
 
